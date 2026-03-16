@@ -23,3 +23,4 @@ export default function App() {
     </main>
   );
 }
+//I denne oppgaven har jeg brukt hjkelp av chatgpt. her er lenken: https://chatgpt.com/share/69b7a7fa-511c-8008-a819-ee5ee4247523

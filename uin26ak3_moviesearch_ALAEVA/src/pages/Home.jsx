@@ -37,3 +37,5 @@ export default function Home() {
     </>
   );
 }
+
+//i denne oppgaven brukte jeg hjelp av Chatgpt. HEr er lenken: https://chatgpt.com/share/69b7a7fa-511c-8008-a819-ee5ee4247523
